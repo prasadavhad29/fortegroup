@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HomeWork3</string>
+    <string name="action_settings">Settings</string>
+    <string name="imageSelectionTextView">Choose Image:</string>
+	<string name="imageSelectorTitle">Images</string>
+	<string-array name="Images">
+        <item >Fruit</item>
+        <item >Flower</item>
+        <item >Bird</item>
+        
+    </string-array>
+        <string name="toggleImageCheckBoxMsg">Show Image?</string>
+        <string name="imageOpacityLabel">Please set image opacity</string>
+        <string name="ratingBarLabel">Rate Image Quality</string>
+        <string name="submitRatingButton">Submit Rating</string>
+        <string name="ratingSubmittedTextView">Rating of </string>
+        <string name="ratingSubmittedTextViewAppend"> submitted, thanks!</string>
+</resources>
